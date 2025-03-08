@@ -24,8 +24,12 @@ env\Scripts\activate `_Mengaktifkannya_`
 
 # Penggunaan 
 1. Melakukan Akses dan Kompilasi(Local):
-    cd streamlit
-    streamlit run dashboard.py
+    - cd streamlit
+    - streamlit run dashboard.py
 
-
-
+# Dashboard
+- ![My Image](dashboard/tampilan_hasil/gmbr1.png)
+- ![My Image](dashboard/tampilan_hasil/gmbr2.png)
+- ![My Image](dashboard/tampilan_hasil/gmbr3.png)
+- ![My Image](dashboard/tampilan_hasil/gmbr4.png)
+- ![My Image](dashboard/tampilan_hasil/kesimpulan.png)
