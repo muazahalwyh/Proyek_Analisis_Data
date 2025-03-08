@@ -2,8 +2,7 @@
 Repository ini berisi proyek data analytics menggunakkan deployment in Streamlit.
 
 # Deskripsi
-Proyek Analisis Data dengan Python menggunakan E-Commerce Publik Dataset
-`Link (https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing)`. Yang bertujuan untuk menganalisis data pada e-commerce yang menghasilkan wawasan dan informasi yang efektif, berguna dari data yang dianalisis
+Proyek Analisis Data dengan Python menggunakan E-Commerce Publik Dataset. Yang bertujuan untuk menganalisis data pada e-commerce yang menghasilkan wawasan dan informasi yang efektif, berguna dari data yang dianalisis
 
 # Struktur Direktori
 - /dashboard : Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
@@ -19,12 +18,14 @@ Proyek Analisis Data dengan Python menggunakan E-Commerce Publik Dataset
 python -m venv env  `_Membuat virtual environment bernama 'env'_`
 env\Scripts\activate `_Mengaktifkannya_`
 3. Instal package yang dibutuhkan untuk analisis data :
-- python -m pip install --upgrade pip
-- pip install numpy pandas seaborn matplotlib streamlit jupyter unidecode
+    - python -m pip install --upgrade pip
+    - pip install numpy pandas seaborn matplotlib streamlit jupyter unidecode
+    - jupyter notebook
 
 # Penggunaan 
-1. Menjalankan Jupyter Notebook : jupyter notebook
-5. Menjalankan Streamlit : streamlit run dashboard.py
+1. Melakukan Akses dan Kompilasi(Local):
+    cd streamlit
+    streamlit run dashboard.py
 
 
 
