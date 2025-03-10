@@ -15,8 +15,8 @@ Proyek Analisis Data dengan Python menggunakan E-Commerce Publik Dataset. Yang b
 # Instalasi
 1. Clone repository ini ke komputer lokal mu dengan menggunakan perintah : https://github.com/muazahalwyh/Proyek_Analisis_Data.git
 2. Membuat dan mengaktifkan Virtual Environment dengan menggunakan perintah : 
-python -m venv env  `_Membuat virtual environment bernama 'env'_`
-env\Scripts\activate `_Mengaktifkannya_`
+    - python -m venv env 
+    - env\Scripts\activate 
 3. Instal package yang dibutuhkan untuk analisis data :
     - python -m pip install --upgrade pip
     - pip install numpy pandas seaborn matplotlib streamlit jupyter unidecode
@@ -26,6 +26,8 @@ env\Scripts\activate `_Mengaktifkannya_`
 1. Melakukan Akses dan Kompilasi(Local):
     - cd streamlit
     - streamlit run dashboard.py
+2. Deployment
+    - https://submission1-h6asrfxm44qvm7gduw2m8l.streamlit.app/
 
 # Dashboard
 - ![My Image](dashboard/tampilan_hasil/gmbr1.png)
