@@ -13,7 +13,10 @@ Proyek Analisis Data dengan Python menggunakan E-Commerce Publik Dataset. Yang b
 - url.txt : link dataset yang tersimpan.
 
 # Instalasi
-1. Clone repository ini ke komputer lokal mu dengan menggunakan perintah : https://github.com/muazahalwyh/Proyek_Analisis_Data.git
+1. Clone repository ini ke komputer lokal mu dengan menggunakan perintah : 
+    ``` 
+    https://github.com/muazahalwyh/Proyek_Analisis_Data.git
+    ```
 2. Membuat dan mengaktifkan Virtual Environment dengan menggunakan perintah : 
     ```
     python -m venv env 
@@ -42,4 +45,3 @@ Proyek Analisis Data dengan Python menggunakan E-Commerce Publik Dataset. Yang b
 - ![My Image](dashboard/tampilan_hasil/gmbr2.png)
 - ![My Image](dashboard/tampilan_hasil/gmbr3.png)
 - ![My Image](dashboard/tampilan_hasil/gmbr4.png)
-- ![My Image](dashboard/tampilan_hasil/kesimpulan.png)
